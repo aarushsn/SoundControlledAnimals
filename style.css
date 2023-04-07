@@ -1,0 +1,43 @@
+#head {
+    font-family: 'Raleway', sans-serif;
+    color: #FE6F27;
+    font-size: 50px;
+}
+.copy_right_footer{
+    padding-top: 120px;
+}
+
+.header_div{
+    background-color: #4C585E;
+}
+body{
+    background-color: #FE6F27;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    color: aliceblue;
+    font-size: 18.5px;
+    font-weight: 400;
+}
+.main_div{
+    padding-top: 50px;
+    background-color: #FE6F27;
+}
+
+
+
+ button{
+     background-color: #ffff;
+    font-family: 'Kanit', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    width: 200px;
+    height: 40px;
+    color: #4C585E;
+ }
+
+ #copyright{
+    font-family: 'Raleway', sans-serif;
+    color: #4C585E;
+    font-size: 25px;
+}
